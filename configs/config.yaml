@@ -10,6 +10,6 @@ use_wandb: False
 data_dir: data
 
 # Evaluation
-model_path: 
+model_path: ""
 # Output directory
 output_dir: outputs/
